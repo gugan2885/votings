@@ -1,1 +1,1 @@
-# votings
+# voting
